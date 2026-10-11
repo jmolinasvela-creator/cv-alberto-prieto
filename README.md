@@ -38,13 +38,13 @@ Web: https://icar.ugr.es/informacion/directorio-personal/alberto-prieto-espinoa/
 * Desde el curso 1993-94 hasta el curso 1999-2000 impartió _"Fundamentos de Computadores II"._
 * Desde sus inicios a la actualidad imparte la asignatura _"Fundamentos de Informática"_
 
-# Autoría de libros de texto
+## Autoría de libros de texto
 1. _**Fundamentos de Fortran V**_. Alberto Prieto Espinosa, Secretariado de Publicaciones de la Univ. de Granada, Dp. Legal. Gr.418. 1982.
 2. _**Introducción a la informática**_ (1a Edición); Prieto Espinosa, Alberto ; Lloris Ruiz, Antonio ; Torres Cantero, Juan Carlos; McGraw-Hill / Interamericana de España, S.A. ISBN: 84-7615-367-8;  978-84-7615-367-3 (500 p.; 16x23 cm), 1989.
 3. _**Diseño lógico**_; Lloris Ruiz, Anotnio; Alberto Prieto Espinosa; McGraw-Hill / Interamericana de España, S.A. ISBN: 84-481-0646-6; 978-84-481-0646-1 (450 p.; 24x19 cm), 1996
 4. _**Arquitectura de computadores**_; Ortega Lopera, Julio; Anguita López, Mancia; Prieto Espinosa, Alberto; Thomson Paraninfo, S.A.; ISBN: 84-9732-274-6; 978-84-9732-274-4; (672 p.; 26x20 cm) 2005.
 
-# Organización de cursos
+## Organización de cursos
 
 * Dirección de coordinación de los siguientes cursos:
   * De 200 o más horas:
@@ -55,7 +55,7 @@ Web: https://icar.ugr.es/informacion/directorio-personal/alberto-prieto-espinoa/
     1. Lenguaje de Programacion Fortran V, Centro de Cálculo de la Unv. de Gra. Director y profresor del Curso. Febrero-Abril 1973.
     2. Lenguaje de Programacion Fortran V, Centro de Cálculo de la Unv. de Gra.,Director y profesor del Curso. Oct.-Enero 1973.
 
-# Otras actividades de gestión universitaria
+## Otras actividades de gestión universitaria
 
 Tutor académico de alumnos ERASMUS de las titulaciones de informática y telecomunicaciones con destino a los siguientes centros:
 
@@ -65,7 +65,7 @@ CH LAUSANN06 | École Polytechnique Fédérale de Lausanne | Lausanne | Suiza | 
 F LYON01 | Université Claude Bernard Lyon | Lyon | Francia | 4 |
 I TORINO02 | Politecnico di Torino | Torino | Italia | 2 |
 
-# Aportaciones a la algorítmica
+## Aportaciones a la algorítmica
 
 **Algoritmo para encontrar el máximo de un conjunto.** El algoritmo puede ser escrito en lenguaje C++ cómo vemos en el siguiente código:
 
