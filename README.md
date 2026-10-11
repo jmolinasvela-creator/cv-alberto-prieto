@@ -25,7 +25,8 @@ Web: https://icar.ugr.es/informacion/directorio-personal/alberto-prieto-espinoa/
 ## Títulos académicos
 
 * Bachiller Superior en la Universidad de Salamanca; 1962
-* Licenciado en Ciencias Físicas (especialidad de Electricidad y Electrónica) en la Universidad Complutense de Madrid.
+* Licenciado en Ciencias Físicas (especialidad de Electricidad y Electrónica) en la
+  Universidad Complutense de Madrid.
 * Doctor en Ciencias Físicas en la Universidad de Granada. Título de la Tesis: _Concepción, diseño y realización de un microcomputador para operar con señales analógicas._
 
 # Actividad docente
