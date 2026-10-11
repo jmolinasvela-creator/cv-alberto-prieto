@@ -3,13 +3,21 @@
 ![Alberto Prieto 2009](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Aprieto_2009.jpeg/250px-Aprieto_2009.jpeg?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
 
 Nombre: **Alberto Prieto Espinosa**
+
 Fecha de nacimiento: 24/08/1945
+
 Dirección:
+
 _ETS de Ingenierías Informática y de Telecomunicación._
+
 _Universidad de Granada_
+
 _C/ Periodista Daniel Saucedo, s/n_
+
 _E-18071 GRANADA_
+
 Email: [[email protected]](albertoprietoespinosa@gmail.com)
+
 Web: https://icar.ugr.es/informacion/directorio-personal/alberto-prieto-espinoa/web/curriculum
 
 # Resumen
