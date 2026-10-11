@@ -39,6 +39,7 @@ Web: https://icar.ugr.es/informacion/directorio-personal/alberto-prieto-espinoa/
 * Desde sus inicios a la actualidad imparte la asignatura _"Fundamentos de Informática"_
 
 # Autoría de libros de texto
+
 1. _**Fundamentos de Fortran V**_. Alberto Prieto Espinosa, Secretariado de Publicaciones de la Univ. de Granada, Dp. Legal. Gr.418. 1982.
 2. _**Introducción a la informática**_ (1a Edición); Prieto Espinosa, Alberto ; Lloris Ruiz, Antonio ; Torres Cantero, Juan Carlos; McGraw-Hill / Interamericana de España, S.A. ISBN: 84-7615-367-8;  978-84-7615-367-3 (500 p.; 16x23 cm), 1989.
 3. _**Diseño lógico**_; Lloris Ruiz, Anotnio; Alberto Prieto Espinosa; McGraw-Hill / Interamericana de España, S.A. ISBN: 84-481-0646-6; 978-84-481-0646-1 (450 p.; 24x19 cm), 1996
