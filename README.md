@@ -28,9 +28,9 @@ Web: https://icar.ugr.es/informacion/directorio-personal/alberto-prieto-espinoa/
 * Licenciado en Ciencias Físicas (especialidad de Electricidad y Electrónica) en la Universidad Complutense de Madrid.
 * Doctor en Ciencias Físicas en la Universidad de Granada. Título de la Tesis: _Concepción, diseño y realización de un microcomputador para operar con señales analógicas._
 
-# Actividad docente
+## Actividad docente
 
-## Materias impartidas
+### Materias impartidas
 
 * Desde el 1710/1979 hasta el curso académico 1985-86 impartió, en diversos cursos académicos, las asignaturas de _Electrónica General, Teoría de Sistemas, Electrónica I y Electrónica II._
 * Desde el curso 1979-80 hasta el 1999-93 impartió la asignatura de _"Automática"_
@@ -44,7 +44,7 @@ Web: https://icar.ugr.es/informacion/directorio-personal/alberto-prieto-espinoa/
 3. _**Diseño lógico**_; Lloris Ruiz, Anotnio; Alberto Prieto Espinosa; McGraw-Hill / Interamericana de España, S.A. ISBN: 84-481-0646-6; 978-84-481-0646-1 (450 p.; 24x19 cm), 1996
 4. _**Arquitectura de computadores**_; Ortega Lopera, Julio; Anguita López, Mancia; Prieto Espinosa, Alberto; Thomson Paraninfo, S.A.; ISBN: 84-9732-274-6; 978-84-9732-274-4; (672 p.; 26x20 cm) 2005.
 
-# Organización de cursos
+## Organización de cursos
 
 * Dirección de coordinación de los siguientes cursos:
   * De 200 o más horas:
@@ -55,7 +55,7 @@ Web: https://icar.ugr.es/informacion/directorio-personal/alberto-prieto-espinoa/
     1. Lenguaje de Programacion Fortran V, Centro de Cálculo de la Unv. de Gra. Director y profresor del Curso. Febrero-Abril 1973.
     2. Lenguaje de Programacion Fortran V, Centro de Cálculo de la Unv. de Gra.,Director y profesor del Curso. Oct.-Enero 1973.
 
-# Otras actividades de gestión universitaria
+## Otras actividades de gestión universitaria
 
 Tutor académico de alumnos ERASMUS de las titulaciones de informática y telecomunicaciones con destino a los siguientes centros:
 
