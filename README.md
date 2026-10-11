@@ -47,10 +47,13 @@ Web: https://icar.ugr.es/informacion/directorio-personal/alberto-prieto-espinoa/
 
 * Dirección de coordinación de los siguientes cursos:
   * De 200 o más horas:
+  
     1. Curso de Programador de Aplicaciones Científicas, Centro de Informática de la Universidad de Granada (200 horas) 1975-76;
     2. Curso de Programador de Aplicaciones Científicas, Centro de Informática de la Universidad de Granada (200 horas) En los años académicos: 75 a 84
     3. Curso de Programador de Aplicaciones de Gestión. (200 horas)., Centro de Informática de la Universidad de Granada. En los años académicos: 76 a 84.
+       
   * De menos de 200 horas:
+    
     1. Lenguaje de Programacion Fortran V, Centro de Cálculo de la Unv. de Gra. Director y profresor del Curso. Febrero-Abril 1973.
     2. Lenguaje de Programacion Fortran V, Centro de Cálculo de la Unv. de Gra.,Director y profesor del Curso. Oct.-Enero 1973.
 
